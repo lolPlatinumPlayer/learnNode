@@ -1,0 +1,4 @@
+node_modules
+.idea
+package-lock.json
+git忽略文件夹
